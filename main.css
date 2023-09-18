@@ -407,7 +407,7 @@
     transform: rotateY(180deg) translateX(-12vw);
   }
   .ffc__front {
-    background-color: #E9EBDB;
+    background-color: #fff;
   }
   .ffc__back {
     background-color: #DEE0D3;
